@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharikajahanaunto&label=Profile%20views&color=0e75b6&style=flat" alt="sharikajahanaunto" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@aunto_jahan" target="blank"><img src="https://img.shields.io/twitter/follow/@aunto_jahan?logo=twitter&style=for-the-badge" alt="@aunto_jahan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/aunto_jahan" target="blank"><img src="https://img.shields.io/twitter/follow/@aunto_jahan?logo=twitter&style=for-the-badge" alt="@aunto_jahan" /></a> </p>
 
 - 🌱 I’m currently learning **React Native & Machine Learning**
 
