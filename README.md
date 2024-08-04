@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Sharika Jahan Aunto</h1>
 <h3 align="center">A passionate frontend developer and data science enthusiast from Bangladesh</h3>
-<img align-"right" alt-"Coding" width-"480" src-"https://giffiles.alphacoders.com/171/171313.gif">
+<img align="right" alt="Coding" width="300" src="https://giffiles.alphacoders.com/171/171313.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharikajahanaunto&label=Profile%20views&color=0e75b6&style=flat" alt="sharikajahanaunto" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@aunto_jahan" target="blank"><img src="https://img.shields.io/twitter/follow/@aunto_jahan?logo=twitter&style=for-the-badge" alt="@aunto_jahan" /></a> </p>
