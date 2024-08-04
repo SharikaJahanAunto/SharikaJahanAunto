@@ -18,12 +18,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@aunto_jahan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@aunto_jahan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sharika-jahan-aunto-745392184/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sharika-jahan-aunto-745392184/" height="30" width="40" /></a>
-<a href="https://fb.com/sharika jahan aunto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sharika jahan aunto" height="30" width="40" /></a>
+<a href="https://x.com/aunto_jahan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@aunto_jahan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sharika-jahan-aunto-745392184/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sharika-jahan-aunto-745392184/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/sreya.mim.58?mibextid=LQQJ4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sharika jahan aunto" height="30" width="40" /></a>
 <a href="https://instagram.com/auntoomonii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="auntoomonii" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/sharikajahannn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/sharikajahannn" height="30" width="40" /></a>
-<a href="https://discord.gg/sharikajahanaunto5938" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sharikajahanaunto5938" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/sharikajahannn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/sharikajahannn" height="30" width="40" /></a>
+<a href="https://discord.com/users/946005345988395088" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sharikajahanaunto5938" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
