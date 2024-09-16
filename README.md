@@ -1,6 +1,5 @@
-![MasterHead]
-(https://th.bing.com/th/id/OIP.oW8e91Ref0jAUBpTJ80jvgHaEK?rs=1&pid=ImgDetMain)
-(https://camo.githubusercontent.com/59fc60c71a5bfaf918be50fa4029810272f7da7aff16df440d0f971bdbb5f6ce/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966)
+![MasterHead](https://th.bing.com/th/id/OIP.oW8e91Ref0jAUBpTJ80jvgHaEK?rs=1&pid=ImgDetMain)
+
 
 <h1 align="center">Hi 👋, I'm Sharika Jahan Aunto</h1>
 <h3 align="center">A passionate frontend developer and data science enthusiast from Bangladesh</h3>
