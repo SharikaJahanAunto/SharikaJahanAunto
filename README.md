@@ -1,4 +1,4 @@
-![MasterHead]([https://th.bing.com/th/id/OIP.oW8e91Ref0jAUBpTJ80jvgHaEK?rs=1&pid=ImgDetMain](https://www.apriorit.com/wp-content/uploads/2023/11/v2-1-blog-article-Part-2-A-practical-guide-with-examples-on-how-to-make-a-simple-server-based-on-Pythons-Django-cover.jpg))
+![MasterHead](https://www.apriorit.com/wp-content/uploads/2023/11/v2-1-blog-article-Part-2-A-practical-guide-with-examples-on-how-to-make-a-simple-server-based-on-Pythons-Django-cover.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Sharika Jahan Aunto</h1>
